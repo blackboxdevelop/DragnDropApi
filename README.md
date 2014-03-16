@@ -15,3 +15,4 @@ Example of its useage
 Needs in the html application
 
     <body onload="dragon(1)"/>
+    <script src="https://raw.github.com/blackboxdevelop/DragnDropApi/master/script.js" type="text/javascript"/>
