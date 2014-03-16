@@ -7,7 +7,10 @@ DragnDrop is a application that aims to make automated systems have a nearly imp
 ---
 > Jake Drew - Founder of DragnDrop
 
-Example of its useage
+
+![alt text](http://people.cs.vt.edu/~tilevich/images/wordcloud.jpg "Machines can be our system")
+
+Example of its usage
 
     //Here goes the example
     
